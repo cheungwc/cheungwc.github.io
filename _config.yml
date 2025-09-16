@@ -13,7 +13,8 @@ title                    : "Wang Chi's Homepage"
 title_separator          : "-"
 name                     : &name "Wang Chi"
 description              : &description "Academic Website"
-url                      : https://cheungwc.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://cheungwc.github.io 
+# the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isecwc/cheungwc.github.io"
 
@@ -24,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wang Chi"
-  pronouns         : # example: "she/her"  
+  #pronouns         : # example: "she/her"  
   bio              : "Operations Research and Machine Learning"
   location         : "Singapore"
   employer         : "National University of Singapore"

@@ -13,8 +13,8 @@ title                    : "Wang Chi Cheung's Homepage"
 title_separator          : "-"
 name                     : &name "Wang Chi Cheung"
 description              : &description "Academic Website"
-url                      : https://cheungwc.github.io 
-repository               : "isecwc/cheungwc.github.io"
+url                      : https://isecwc.github.io 
+repository               : "isecwc/isecwc.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

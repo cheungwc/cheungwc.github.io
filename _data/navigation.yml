@@ -15,7 +15,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /file/CV.pdf
+    url: /file/CV.pdf/
 
   #- title: "Talks"
   #  url: /talks/    

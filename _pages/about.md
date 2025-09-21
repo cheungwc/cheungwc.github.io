@@ -8,4 +8,4 @@ Selected Works
 ======
 1. Wang Chi Cheung, Li Zitian: [Episodic Contextual Bandits with Knapsacks under Conversion Models](https://arxiv.org/abs/2507.06859). pre-print, 2025.
 2. Wang Chi Cheung, Lixing Lyu: [Leveraging (Biased) Information: Multi-armed Bandits with Offline Data](https://proceedings.mlr.press/v235/cheung24a.html). ICML (Spotlight), 2024.
-3. 
+
